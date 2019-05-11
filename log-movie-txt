@@ -1,0 +1,434 @@
+jc@JCPC:~/Documentos/EnUso/PROAPI/03 - Operacion/Tec Coding Boot Camp/Tareas/Tarea 10 - 11May2019 - Liri/liri-node-app$ node liri spotife-this-song ya no vives en mi
+
+Command: spotife-this-song
+Parameters: ya no vives en mi
+
+'spotife-this-song' is not recognized as a valid command for LIRI.
+jc@JCPC:~/Documentos/EnUso/PROAPI/03 - Operacion/Tec Coding Boot Camp/Tareas/Tarea 10 - 11May2019 - Liri/liri-node-app$ node liri spotify-this-song ya no vives en mi
+Command: spotify-this-song
+Parameters: ya no vives en mi
+
+-----  0  ----- 
+   Artist:       Banda Clave Nueva De Max Peraza 
+   Song's name:  Cuál Adiós 
+   Link:         null 
+   Album:        Ya No Vives En Mí
+
+-----  1  ----- 
+   Artist:       Yuri, Carlos Rivera 
+   Song's name:  Ya No Vives en Mí (Primera Fila) - En Vivo 
+   Link:         https://p.scdn.co/mp3-preview/169b694a9b6a208b3c7aed6ec0455e2ec20b7c83?cid=85d74d1cdd9649d9aa77ba73e1e454c1 
+   Album:        Primera Fila (En Vivo)
+
+-----  2  ----- 
+   Artist:       Banda Clave Nueva De Max Peraza 
+   Song's name:  Nadie Como Tú 
+   Link:         null 
+   Album:        Ya No Vives En Mí
+
+-----  3  ----- 
+   Artist:       Samuray 
+   Song's name:  Ya No Vives en Mí 
+   Link:         https://p.scdn.co/mp3-preview/ddc4f8cea217bda06c0d64d4b68031c4e4860a8a?cid=85d74d1cdd9649d9aa77ba73e1e454c1 
+   Album:        15 Mega Éxitos de Oro
+
+-----  4  ----- 
+   Artist:       Yuri 
+   Song's name:  Pop Baladas: No Puedo Mas/Ya No Vives en Mi/Un Corazon Herido 
+   Link:         https://p.scdn.co/mp3-preview/ab3459c98e227be714c4ea7586e2bd39cf3192ee?cid=85d74d1cdd9649d9aa77ba73e1e454c1 
+   Album:        El Concierto
+
+-----  5  ----- 
+   Artist:       Yuri, Carlos Rivera 
+   Song's name:  Ya No Vives en Mí (Versión Pop) 
+   Link:         https://p.scdn.co/mp3-preview/b3c2b0bb1a826211b0d19bb70b9a291dd672e7f7?cid=85d74d1cdd9649d9aa77ba73e1e454c1 
+   Album:        Ya No Vives en Mí (Versión Pop)
+
+-----  6  ----- 
+   Artist:       Banda Clave Nueva De Max Peraza 
+   Song's name:  Déjame/Ya No Vives En Mí (Cuál Adiós) - En Vivo 
+   Link:         null 
+   Album:        Puras Pa´ Pistear Con Banda Clave Nueva De Max Peraza Sí, Sí, Sí (En Vivo)
+
+-----  7  ----- 
+   Artist:       Banda Clave Nueva De Max Peraza 
+   Song's name:  El Cabrón 
+   Link:         null 
+   Album:        Ya No Vives En Mí
+
+-----  8  ----- 
+   Artist:       Banda Clave Nueva De Max Peraza 
+   Song's name:  No Me Quedaron Ganas 
+   Link:         null 
+   Album:        Ya No Vives En Mí
+
+-----  9  ----- 
+   Artist:       Yuri 
+   Song's name:  Ya No Vives En Mí 
+   Link:         null 
+   Album:        Enamorada
+
+-----  10  ----- 
+   Artist:       Banda Clave Nueva De Max Peraza 
+   Song's name:  Por Qué No Le Cuentas 
+   Link:         null 
+   Album:        Ya No Vives En Mí
+
+-----  11  ----- 
+   Artist:       Banda Clave Nueva De Max Peraza 
+   Song's name:  Vida De Perros 
+   Link:         null 
+   Album:        Ya No Vives En Mí
+
+-----  12  ----- 
+   Artist:       Los Alegres MX 
+   Song's name:  Ya No Vives en Mi 
+   Link:         https://p.scdn.co/mp3-preview/b479292b3e3557c1b0dffab8d2aa558dbe3c0288?cid=85d74d1cdd9649d9aa77ba73e1e454c1 
+   Album:        Ya No Vives en Mi
+
+-----  13  ----- 
+   Artist:       La Bandononona Clave Nueva De Max Peraza 
+   Song's name:  Déjame 
+   Link:         null 
+   Album:        Ya No Vives En Mí
+
+-----  14  ----- 
+   Artist:       Banda Clave Nueva De Max Peraza 
+   Song's name:  Hacerte Tan Feliz 
+   Link:         null 
+   Album:        Ya No Vives En Mí
+
+-----  15  ----- 
+   Artist:       Banda Clave Nueva De Max Peraza 
+   Song's name:  De Parte De Quién 
+   Link:         null 
+   Album:        Ya No Vives En Mí
+
+-----  16  ----- 
+   Artist:       Banda Clave Nueva De Max Peraza 
+   Song's name:  No Me Perdones 
+   Link:         null 
+   Album:        Ya No Vives En Mí
+
+-----  17  ----- 
+   Artist:       Banda Clave Nueva De Max Peraza 
+   Song's name:  Pies De Plomo 
+   Link:         null 
+   Album:        Ya No Vives En Mí
+
+-----  18  ----- 
+   Artist:       Saul El Jaguar Alarcón, Banda Clave Nueva De Max Peraza 
+   Song's name:  Al Estilo Mafia 
+   Link:         null 
+   Album:        Ya No Vives En Mí
+
+-----  19  ----- 
+   Artist:       Banda Clave Nueva De Max Peraza 
+   Song's name:  Me Gustas Bastante 
+   Link:         null 
+   Album:        Ya No Vives En Mí
+jc@JCPC:~/Documentos/EnUso/PROAPI/03 - Operacion/Tec Coding Boot Camp/Tareas/Tarea 10 - 11May2019 - Liri/liri-node-app$ node liri concert-this yuri
+Command: concert-this
+Parameters: yuri
+
+-----  0  ----- 
+   Name of the venue: United Palace 
+   Venue location:    United States, New York 
+   Date of the event: 05/11/2019
+
+-----  1  ----- 
+   Name of the venue: Auditorio Telmex 
+   Venue location:    Mexico, Zapopan 
+   Date of the event: 05/11/2019
+
+-----  2  ----- 
+   Name of the venue: Auditorio Josefa Ortiz de Domínguez 
+   Venue location:    Mexico, Monte De Humo 
+   Date of the event: 05/11/2019
+
+-----  3  ----- 
+   Name of the venue: Auditorio Nacional 
+   Venue location:    Mexico, Ciudad De México 
+   Date of the event: 05/11/2019
+jc@JCPC:~/Documentos/EnUso/PROAPI/03 - Operacion/Tec Coding Boot Camp/Tareas/Tarea 10 - 11May2019 - Liri/liri-node-app$ git add  .
+jc@JCPC:~/Documentos/EnUso/PROAPI/03 - Operacion/Tec Coding Boot Camp/Tareas/Tarea 10 - 11May2019 - Liri/liri-node-app$ git commit -m "Bands in Town & Spotify"
+[master c7d3684] Bands in Town & Spotify
+ 10 files changed, 7329 deletions(-)
+ delete mode 100644 log-config.txt
+ delete mode 100644 log-data-keys.txt
+ delete mode 100644 log-data.txt
+ delete mode 100644 log-data2.txt
+ delete mode 100644 log-headers.txt
+ delete mode 100644 log-keys.txt
+ delete mode 100644 log-spotify-response.tracks.items 0.artists.txt
+ delete mode 100644 log-spotify-response.tracks.items 0.txt
+ delete mode 100644 log-spotify-response.tracks.items.txt
+ delete mode 100644 resepusta spotify.txt
+jc@JCPC:~/Documentos/EnUso/PROAPI/03 - Operacion/Tec Coding Boot Camp/Tareas/Tarea 10 - 11May2019 - Liri/liri-node-app$ git push
+Contando objetos: 2, listo.
+Delta compression using up to 4 threads.
+Comprimiendo objetos: 100% (2/2), listo.
+Escribiendo objetos: 100% (2/2), 246 bytes | 246.00 KiB/s, listo.
+Total 2 (delta 1), reused 0 (delta 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To github.com:JesusColunga/liri-node-app.git
+   cf33d0e..c7d3684  master -> master
+jc@JCPC:~/Documentos/EnUso/PROAPI/03 - Operacion/Tec Coding Boot Camp/Tareas/Tarea 10 - 11May2019 - Liri/liri-node-app$ node liri movie-this batman
+Command: movie-this
+Parameters: batman
+/home/jc/Documentos/EnUso/PROAPI/03 - Operacion/Tec Coding Boot Camp/Tareas/Tarea 10 - 11May2019 - Liri/liri-node-app/liri.js:88
+    var url = "http://www.omdbapi.com/?apikey=trilogy&t=" + param;
+                                                            ^
+
+ReferenceError: param is not defined
+    at movieExec (/home/jc/Documentos/EnUso/PROAPI/03 - Operacion/Tec Coding Boot Camp/Tareas/Tarea 10 - 11May2019 - Liri/liri-node-app/liri.js:88:61)
+    at identifyCommand (/home/jc/Documentos/EnUso/PROAPI/03 - Operacion/Tec Coding Boot Camp/Tareas/Tarea 10 - 11May2019 - Liri/liri-node-app/liri.js:177:41)
+    at Object.<anonymous> (/home/jc/Documentos/EnUso/PROAPI/03 - Operacion/Tec Coding Boot Camp/Tareas/Tarea 10 - 11May2019 - Liri/liri-node-app/liri.js:189:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+    at startup (internal/bootstrap/node.js:283:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:622:3)
+jc@JCPC:~/Documentos/EnUso/PROAPI/03 - Operacion/Tec Coding Boot Camp/Tareas/Tarea 10 - 11May2019 - Liri/liri-node-app$
+
+==================================================================================
+==================================================================================
+==================================================================================
+==================================================================================
+ node liri movie-this batman
+Command: movie-this
+Parameters: batman
+
+response: { status: 200,
+  statusText: 'OK',
+  headers:
+   { date: 'Sat, 11 May 2019 20:35:42 GMT',
+     'content-type': 'application/json; charset=utf-8',
+     'content-length': '1027',
+     connection: 'close',
+     'set-cookie':
+      [ '__cfduid=ddf7c7680fd17c9f18b4ba89cd024e4f91557606942; expires=Sun, 10-May-20 20:35:42 GMT; path=/; domain=.omdbapi.com; HttpOnly' ],
+     'cache-control': 'public, max-age=86400',
+     expires: 'Sun, 12 May 2019 20:35:42 GMT',
+     'last-modified': 'Sat, 11 May 2019 20:35:42 GMT',
+     vary: '*',
+     'x-aspnet-version': '4.0.30319',
+     'x-powered-by': 'ASP.NET',
+     'access-control-allow-origin': '*',
+     'cf-cache-status': 'MISS',
+     'accept-ranges': 'bytes',
+     server: 'cloudflare',
+     'cf-ray': '4d56f0e04a3bd292-DFW' },
+  config:
+   { adapter: [Function: httpAdapter],
+     transformRequest: { '0': [Function: transformRequest] },
+     transformResponse: { '0': [Function: transformResponse] },
+     timeout: 0,
+     xsrfCookieName: 'XSRF-TOKEN',
+     xsrfHeaderName: 'X-XSRF-TOKEN',
+     maxContentLength: -1,
+     validateStatus: [Function: validateStatus],
+     headers:
+      { Accept: 'application/json, text/plain, */*',
+        'User-Agent': 'axios/0.18.0' },
+     method: 'get',
+     url: 'http://www.omdbapi.com/?apikey=trilogy&t=batman',
+     data: undefined },
+  request:
+   ClientRequest {
+     _events:
+      [Object: null prototype] {
+        socket: [Function],
+        abort: [Function],
+        aborted: [Function],
+        error: [Function],
+        timeout: [Function],
+        prefinish: [Function: requestOnPrefinish] },
+     _eventsCount: 6,
+     _maxListeners: undefined,
+     output: [],
+     outputEncodings: [],
+     outputCallbacks: [],
+     outputSize: 0,
+     writable: true,
+     _last: true,
+     chunkedEncoding: false,
+     shouldKeepAlive: false,
+     useChunkedEncodingByDefault: false,
+     sendDate: false,
+     _removedConnection: false,
+     _removedContLen: false,
+     _removedTE: false,
+     _contentLength: 0,
+     _hasBody: true,
+     _trailer: '',
+     finished: true,
+     _headerSent: true,
+     socket:
+      Socket {
+        connecting: false,
+        _hadError: false,
+        _handle: [TCP],
+        _parent: null,
+        _host: 'www.omdbapi.com',
+        _readableState: [ReadableState],
+        readable: true,
+        _events: [Object],
+        _eventsCount: 7,
+        _maxListeners: undefined,
+        _writableState: [WritableState],
+        writable: false,
+        allowHalfOpen: false,
+        _sockname: null,
+        _pendingData: null,
+        _pendingEncoding: '',
+        server: null,
+        _server: null,
+        parser: null,
+        _httpMessage: [Circular],
+        [Symbol(asyncId)]: 7,
+        [Symbol(lastWriteQueueSize)]: 0,
+        [Symbol(timeout)]: null,
+        [Symbol(kBytesRead)]: 0,
+        [Symbol(kBytesWritten)]: 0 },
+     connection:
+      Socket {
+        connecting: false,
+        _hadError: false,
+        _handle: [TCP],
+        _parent: null,
+        _host: 'www.omdbapi.com',
+        _readableState: [ReadableState],
+        readable: true,
+        _events: [Object],
+        _eventsCount: 7,
+        _maxListeners: undefined,
+        _writableState: [WritableState],
+        writable: false,
+        allowHalfOpen: false,
+        _sockname: null,
+        _pendingData: null,
+        _pendingEncoding: '',
+        server: null,
+        _server: null,
+        parser: null,
+        _httpMessage: [Circular],
+        [Symbol(asyncId)]: 7,
+        [Symbol(lastWriteQueueSize)]: 0,
+        [Symbol(timeout)]: null,
+        [Symbol(kBytesRead)]: 0,
+        [Symbol(kBytesWritten)]: 0 },
+     _header:
+      'GET /?apikey=trilogy&t=batman HTTP/1.1\r\nAccept: application/json, text/plain, */*\r\nUser-Agent: axios/0.18.0\r\nHost: www.omdbapi.com\r\nConnection: close\r\n\r\n',
+     _onPendingData: [Function: noopPendingOutput],
+     agent:
+      Agent {
+        _events: [Object],
+        _eventsCount: 1,
+        _maxListeners: undefined,
+        defaultPort: 80,
+        protocol: 'http:',
+        options: [Object],
+        requests: {},
+        sockets: [Object],
+        freeSockets: {},
+        keepAliveMsecs: 1000,
+        keepAlive: false,
+        maxSockets: Infinity,
+        maxFreeSockets: 256 },
+     socketPath: undefined,
+     timeout: undefined,
+     method: 'GET',
+     path: '/?apikey=trilogy&t=batman',
+     _ended: true,
+     res:
+      IncomingMessage {
+        _readableState: [ReadableState],
+        readable: false,
+        _events: [Object],
+        _eventsCount: 3,
+        _maxListeners: undefined,
+        socket: [Socket],
+        connection: [Socket],
+        httpVersionMajor: 1,
+        httpVersionMinor: 1,
+        httpVersion: '1.1',
+        complete: true,
+        headers: [Object],
+        rawHeaders: [Array],
+        trailers: {},
+        rawTrailers: [],
+        aborted: false,
+        upgrade: false,
+        url: '',
+        method: null,
+        statusCode: 200,
+        statusMessage: 'OK',
+        client: [Socket],
+        _consuming: false,
+        _dumped: false,
+        req: [Circular],
+        responseUrl: 'http://www.omdbapi.com/?apikey=trilogy&t=batman',
+        redirects: [] },
+     aborted: undefined,
+     timeoutCb: null,
+     upgradeOrConnect: false,
+     parser: null,
+     maxHeadersCount: null,
+     _redirectable:
+      Writable {
+        _writableState: [WritableState],
+        writable: true,
+        _events: [Object],
+        _eventsCount: 2,
+        _maxListeners: undefined,
+        _options: [Object],
+        _ended: true,
+        _ending: true,
+        _redirectCount: 0,
+        _redirects: [],
+        _requestBodyLength: 0,
+        _requestBodyBuffers: [],
+        _onNativeResponse: [Function],
+        _currentRequest: [Circular],
+        _currentUrl: 'http://www.omdbapi.com/?apikey=trilogy&t=batman' },
+     [Symbol(isCorked)]: false,
+     [Symbol(outHeadersKey)]:
+      [Object: null prototype] { accept: [Array], 'user-agent': [Array], host: [Array] } },
+      
+  data:
+   { Title: 'Batman',
+     Year: '1989',
+     Rated: 'PG-13',
+     Released: '23 Jun 1989',
+     Runtime: '126 min',
+     Genre: 'Action, Adventure',
+     Director: 'Tim Burton',
+     Writer:
+      'Bob Kane (Batman characters), Sam Hamm (story), Sam Hamm (screenplay), Warren Skaaren (screenplay)',
+     Actors: 'Michael Keaton, Jack Nicholson, Kim Basinger, Robert Wuhl',
+     Plot:
+      'The Dark Knight of Gotham City begins his war on crime with his first major enemy being the clownishly homicidal Joker.',
+     Language: 'English, French, Spanish',
+     Country: 'USA, UK',
+     Awards: 'Won 1 Oscar. Another 8 wins & 26 nominations.',
+     Poster:
+      'https://m.media-amazon.com/images/M/MV5BMTYwNjAyODIyMF5BMl5BanBnXkFtZTYwNDMwMDk2._V1_SX300.jpg',
+     Ratings: [ [Object], [Object], [Object] ],
+     Metascore: '69',
+     imdbRating: '7.6',
+     imdbVotes: '311,189',
+     imdbID: 'tt0096895',
+     Type: 'movie',
+     DVD: '25 Mar 1997',
+     BoxOffice: 'N/A',
+     Production: 'Warner Bros. Pictures',
+     Website: 'N/A',
+     Response: 'True' } }
+
+
+Log file created.
+jc@JCPC:~/Documentos/EnUso/PROAPI/03 - Operacion/Tec Coding Boot Camp/Tareas/Tarea 10 - 11May2019 - Liri/liri-node-app$ 

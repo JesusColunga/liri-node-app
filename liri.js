@@ -72,13 +72,57 @@ function unknownCommand () {
 //----------------------------------------------------------
 function doWhatExec () {};
 
-function movieExec () {};
-
 //                 ----------
-function spotifyShowInfoArtists () {
-    var st = "";
+function movieExRating (ratings){
+    var rateSt = "";
+    for (ct = 0; ct < ratings.length; ct ++) {
+        if (ratings [ct].Source === "Rotten Tomatoes") {
+            rateSt = ratings [ct].Value;
+        };
+    }
+    return rateSt;
+      
 };
 
+function movieExError(error) {
+    console.log("Error:", error);
+};
+
+function movieExOk(response) {
+    //response.tracks.items.forEach( spotifyShowInfo  );
+    //console.log("response:", response);
+    //writeKeys(response);
+    //response.data
+    console.log (
+        "\n   Title of the movie:                   ", response.data.Title,
+        "\n   Year the movie came out:              ", response.data.Year,
+        "\n   IMDB Rating of the movie:             ", response.data.imdbRating,
+        "\n   Rotten Tomatoes Rating of the movie:  ", movieExRating (response.data.Ratings),
+        "\n   Country where the movie was produced: ", response.data.Country,
+        "\n   Language of the movie:                ", response.data.Language, "\n",
+        "\n   Plot of the movie:                    ",
+        "\n", response.data.Plot, "\n",
+        "\n   Actors in the movie:                  ",
+        "\n", response.data.Actors, "\n"
+    );
+};
+
+function movieExec () {
+    if (params === "") { params = "Mr. Nobody"};
+    var url = "http://www.omdbapi.com/?apikey=trilogy&t=" + params;
+    axios
+      .get(url)
+      .then(function(response) {
+               movieExOk(response);
+            }
+      )
+      .catch(function(error) {
+               movieExError(error);
+             }
+      );
+};
+
+//                 ----------
 function spotifyShowInfo (item, index) {
     var artSt = "";
     item.artists

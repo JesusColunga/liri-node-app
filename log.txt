@@ -1,1 +1,6 @@
-[{"external_urls":{"spotify":"https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"},"href":"https://api.spotify.com/v1/artists/738wLrAtLtCtFOLvQBXOXp","id":"738wLrAtLtCtFOLvQBXOXp","name":"Major Lazer","type":"artist","uri":"spotify:artist:738wLrAtLtCtFOLvQBXOXp"},{"external_urls":{"spotify":"https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"},"href":"https://api.spotify.com/v1/artists/0bdfiayQAKewqEvaU6rXCv","id":"0bdfiayQAKewqEvaU6rXCv","name":"MØ","type":"artist","uri":"spotify:artist:0bdfiayQAKewqEvaU6rXCv"},{"external_urls":{"spotify":"https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"},"href":"https://api.spotify.com/v1/artists/540vIaP2JwjQb9dm3aArA4","id":"540vIaP2JwjQb9dm3aArA4","name":"DJ Snake","type":"artist","uri":"spotify:artist:540vIaP2JwjQb9dm3aArA4"}]
+["status"
+"statusText"
+"headers"
+"config"
+"request"
+"data"]
