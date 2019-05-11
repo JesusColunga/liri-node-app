@@ -1,5 +1,5 @@
 // liri.js
-// 9/May/2019
+// 10/May/2019
 // LIRI Bot: Language Interpretation and Recognition Interface
 
 
@@ -8,7 +8,8 @@
 require("dotenv").config();
 var axios = require("axios");
 var keys = require("./keys.js");
-//var spotify = new Spotify(keys.spotify);
+var Spotify = require('node-spotify-api');
+var spotify = new Spotify(keys.spotify);
 var command = process.argv[2];
 var argArr  = process.argv.slice(3);
 var params  = argArr.join (" ");
@@ -30,6 +31,19 @@ function showInfo (item, index) {
         "\n   Venue location:   ", item.venue.country + ", " + item.venue.city,
         "\n   Date of the event:", moment(item.venue.datetime).format("MM/DD/YYYY")
     );
+};
+
+function writeKeys (data) {
+    dataSt = JSON.stringify( Object.keys(data) ).replace(/,/g, "\n");
+    fs.writeFile("log.txt", 
+                 dataSt, 
+                 function(err) {
+                    if (err) {
+                        return console.log("Error writing the log file:", err);
+                    }
+                    console.log("Log file created.");
+                 }
+                );
 };
 
 function writeLog (data) {
@@ -60,32 +74,69 @@ function doWhatExec () {};
 
 function movieExec () {};
 
-function spotifyExec () {};
+//                 ----------
+function spotifyShowInfoArtists () {
+    var st = "";
+};
+
+function spotifyShowInfo (item, index) {
+    var artSt = "";
+    item.artists
+    .forEach(
+       function(value, index){
+           artSt === "" ? artSt = value.name : artSt += ", " + value.name;
+       }
+    );
+    console.log (
+        "\n----- ", index, " -----",
+        "\n   Artist:      ", artSt,
+        "\n   Song's name: ", item.name,
+        "\n   Link:        ", item.preview_url,
+        "\n   Album:       ", item.album.name
+    );
+};
+
+function spotifyExError(error) {
+    console.log("Error:", error);
+};
+
+function spotifyExOk(response) {
+    response.tracks.items.forEach( spotifyShowInfo  );
+};
+
+function spotifyExec () {
+    if (params === "") { params = "The Sign by Ace of Base" };
+    spotify
+    .search({ type: 'track', 
+              query: params })
+    .then(function(response) {
+        spotifyExOk(response);
+    })
+    .catch(function(error) {
+        spotifyExError(error);
+    });
+};
 
 //                 ----------
+function concertShowInfo (item, index) {
+    console.log (
+        "\n----- ", index, " -----",
+        "\n   Name of the venue:", item.venue.name,
+        "\n   Venue location:   ", item.venue.country + ", " + item.venue.city,
+        "\n   Date of the event:", moment(item.venue.datetime).format("MM/DD/YYYY")
+    );
+};
+
 function concertExError(error) {
     console.log("Error:", error);
 };
 
 function concertExOk(response) {
-    //console.log("Response:", response);
-    //showKeys (response);
-    //writeLog ( Object.keys(response) );   ["status","statusText","headers","config","request","data"]
-    //writeLog ( response.status );         200
-    //writeLog ( response.statusText );     "OK"
-    //writeLog ( response.headers );        log-headers.txt
-    //writeLog ( response.config );         log-config.txt
-    //writeLog ( response.request ); error
-    //showKeys (response.request);
-    //console.log("Request", response.request); muy largo y tiene objetos dentro del objeto
-    //writeLog ( response.data );
-    //writeLog ( Object.keys(response.data) ); Este es el que tiene la info
-    response.data.forEach(showInfo);
+    response.data.forEach(concertShowInfo);
 };
 
 function concertExec () {
     var url = "https://rest.bandsintown.com/artists/" + params + "/events?app_id=codingbootcamp";
-    //console.log("url:", url);
     axios
       .get(url)
       .then(function(response) {
