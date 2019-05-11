@@ -9,3 +9,5 @@ To make this app work, after cloning you should add an .env file with the follow
 
 SPOTIFY_ID=your-spotify-id
 SPOTIFY_SECRET=your-spotify-secret
+
+If looking for a movie and the name contents special characters you may use "" to specify the name of the movie.

@@ -1,6 +1,0 @@
-["status"
-"statusText"
-"headers"
-"config"
-"request"
-"data"]

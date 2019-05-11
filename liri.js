@@ -84,27 +84,31 @@ function movieExRating (ratings){
       
 };
 
+function movieShowInfo (info) {
+    console.log (
+        "\n   Title of the movie:                   ", info.Title,
+        "\n   Year the movie came out:              ", info.Year,
+        "\n   IMDB Rating of the movie:             ", info.imdbRating,
+        "\n   Rotten Tomatoes Rating of the movie:  ", movieExRating (info.Ratings),
+        "\n   Country where the movie was produced: ", info.Country,
+        "\n   Language of the movie:                ", info.Language, "\n",
+        "\n   Plot of the movie:                    ",
+        "\n", info.Plot, "\n",
+        "\n   Actors in the movie:                  ",
+        "\n", info.Actors, "\n"
+    );
+};
+
 function movieExError(error) {
     console.log("Error:", error);
 };
 
 function movieExOk(response) {
-    //response.tracks.items.forEach( spotifyShowInfo  );
-    //console.log("response:", response);
-    //writeKeys(response);
-    //response.data
-    console.log (
-        "\n   Title of the movie:                   ", response.data.Title,
-        "\n   Year the movie came out:              ", response.data.Year,
-        "\n   IMDB Rating of the movie:             ", response.data.imdbRating,
-        "\n   Rotten Tomatoes Rating of the movie:  ", movieExRating (response.data.Ratings),
-        "\n   Country where the movie was produced: ", response.data.Country,
-        "\n   Language of the movie:                ", response.data.Language, "\n",
-        "\n   Plot of the movie:                    ",
-        "\n", response.data.Plot, "\n",
-        "\n   Actors in the movie:                  ",
-        "\n", response.data.Actors, "\n"
-    );
+    if (response.data.Response === "True") {
+        movieShowInfo (response.data);
+    } else {
+        console.log (response.data.Error);
+    };
 };
 
 function movieExec () {
