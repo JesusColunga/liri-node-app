@@ -1,0 +1,12 @@
+{
+    "transformRequest":{},
+    "transformResponse":{},
+    "timeout":0,
+    "xsrfCookieName":"XSRF-TOKEN",
+    "xsrfHeaderName":"X-XSRF-TOKEN",
+    "maxContentLength":-1,
+    "headers":{"Accept":"application/json, text/plain, */*",
+               "User-Agent":"axios/0.18.0"},
+    "method":"get",
+    "url":"https://rest.bandsintown.com/artists/aurora/events?app_id=codingbootcamp"
+}
