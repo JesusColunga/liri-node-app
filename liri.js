@@ -1,5 +1,5 @@
 // liri.js
-// 10/May/2019
+// 11/May/2019
 // LIRI Bot: Language Interpretation and Recognition Interface
 
 
@@ -17,24 +17,10 @@ var fs = require("fs");
 var moment = require ("moment");
 
 
-// OBJECTS
-// =======================================================================================
-
-
 // FUNCTIONS (Definition)
 // =======================================================================================
-function showInfo (item, index) {
-    //console.log ("Item:", item, "Index:", index);
-    console.log (
-        "\n----- ", index, " -----",
-        "\n   Name of the venue:", item.venue.name,
-        "\n   Venue location:   ", item.venue.country + ", " + item.venue.city,
-        "\n   Date of the event:", moment(item.venue.datetime).format("MM/DD/YYYY")
-    );
-};
-
 function writeKeys (data) {
-    dataSt = JSON.stringify( Object.keys(data) ).replace(/,/g, "\n");
+    var dataSt = JSON.stringify( Object.keys(data) ).replace(/,/g, "\n");
     fs.writeFile("log.txt", 
                  dataSt, 
                  function(err) {
@@ -47,7 +33,7 @@ function writeKeys (data) {
 };
 
 function writeLog (data) {
-    dataSt = JSON.stringify(data);
+    var dataSt = JSON.stringify(data);
     //console.log ("JSON:", dataSt);
     fs.writeFile("log.txt", 
                  dataSt, 
@@ -70,7 +56,37 @@ function unknownCommand () {
 };
 
 //----------------------------------------------------------
-function doWhatExec () {};
+function doWhatExReadFile (){
+    fs.readFile("random.txt", 
+                "utf8", 
+                function(error, data) {
+                    if (error) {
+                        return console.log("Error reading file random.txt:", error);
+                    };
+
+                    var dataArr = data.split(",");
+
+                    if (dataArr.length > 0) {
+                        command = dataArr[0];
+                    } else {
+                        console.log("Error identifying the command from file.");
+                        command = "";
+                    };
+
+                    if (dataArr.length > 1) {
+                        params = dataArr[1];
+                    } else {
+                        params = "";
+                    };
+
+                    console.log("   - - - -");
+                    identifyCommand ();
+                });
+};
+
+function doWhatExec () {
+    doWhatExReadFile ();
+};
 
 //                 ----------
 function movieExRating (ratings){
@@ -199,6 +215,8 @@ function concertExec () {
 //----------------------------------------------------------
 
 function identifyCommand () {
+    console.log ('Command:'   , command);
+    console.log ('Parameters:', params );
     var comm = command.toLowerCase();
     if (comm === "concert-this"     ) { concertExec(); } else
     if (comm === "spotify-this-song") { spotifyExec(); } else
@@ -210,9 +228,4 @@ function identifyCommand () {
 
 // FUNCTION CALLS (Execution)
 // =======================================================================================
-//console.log ('Keys:'      , keys   );
-console.log ('Command:'   , command);
-//console.log ('Args array:', argArr );
-console.log ('Parameters:', params );
 identifyCommand ();
-
