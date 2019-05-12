@@ -210,7 +210,11 @@ function concertShowInfo (item, index) {
 };
 
 function concertExError(error) {
-    console.log("Error:", error);
+    if (error.response.statusText !== undefined) {
+        console.log("Error:", error.response.statusText);
+    } else {
+        console.log("Error:", error);
+    };
 };
 
 function concertExOk(response) {
@@ -220,6 +224,7 @@ function concertExOk(response) {
 };
 
 function concertExec () {
+    if (params === "") { params = "Florence and The Machine" };
     var url = "https://rest.bandsintown.com/artists/" + params + "/events?app_id=codingbootcamp";
     axios
       .get(url)
