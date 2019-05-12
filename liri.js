@@ -96,8 +96,6 @@ function doWhatExReadFile (){
                         params = "";
                     };
 
-                    //console.log("\n   - - - -\n");
-                    //writeLog("\n   - - - -\n", false);
                     identifyCommand ();
                 });
 };
@@ -182,9 +180,13 @@ function spotifyExError(error) {
 };
 
 function spotifyExOk(response) {
-    stringResult = "";
-    response.tracks.items.forEach( spotifyShowInfo  );
-    showConsoleWriteFile (stringResult);
+    if (response.tracks.items.length === 0) {
+        console.log ("Request not found.");
+    } else {
+        stringResult = "";
+        response.tracks.items.forEach( spotifyShowInfo  );
+        showConsoleWriteFile (stringResult);
+    }
 };
 
 function spotifyExec () {
