@@ -1,0 +1,1053 @@
+
+========================================
+Command: pato
+Parameters: 
+
+pato' is not recognized as a valid command for LIRI.
+
+
+========================================
+Command: pipo
+Parameters: 
+
+'pipo' is not recognized as a valid command for LIRI.
+
+
+========================================
+Command:    sopa
+Parameters: 
+
+'sopa' is not recognized as a valid command for LIRI.
+
+
+   - - - -
+
+========================================
+Command:    concert-this
+Parameters: Carrie Underwood
+
+
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+
+
+========================================
+Command:    concert-this
+Parameters: Carrie Underwood
+
+
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+
+
+========================================
+Command:    concert-this
+Parameters: Carrie Underwood
+
+
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+
+
+========================================
+Command:    concert-this
+Parameters: Carrie Underwood
+
+
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+
+
+========================================
+Command:    concert-this
+Parameters: Carrie Underwood
+
+
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+
+
+========================================
+Command:    concert-this
+Parameters: Carrie Underwood
+
+
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+
+
+========================================
+Command:    concert-this
+Parameters: Carrie Underwood
+
+
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+
+
+========================================
+Command:    concert-this
+Parameters: Carrie Underwood
+
+
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+----- 
+
+
+========================================
+Command:    concert-this
+Parameters: Carrie Underwood
+
+
+----- 0 -----
+   Name of the venue:Save Mart Center
+   Venue location:   United States, Fresno
+   Date of the event:05/11/2019
+----- 1 -----
+   Name of the venue:Golden1 Center
+   Venue location:   United States, Sacramento
+   Date of the event:05/11/2019
+----- 2 -----
+   Name of the venue:Oracle Arena
+   Venue location:   United States, Oakland
+   Date of the event:05/11/2019
+----- 3 -----
+   Name of the venue:Rabobank Arena, Theater and Convention Center
+   Venue location:   United States, Bakersfield
+   Date of the event:05/11/2019
+----- 4 -----
+   Name of the venue:Moda Center
+   Venue location:   United States, Portland
+   Date of the event:05/11/2019
+----- 5 -----
+   Name of the venue:Spokane Arena
+   Venue location:   United States, Spokane
+   Date of the event:05/11/2019
+----- 6 -----
+   Name of the venue:Tacoma Dome
+   Venue location:   United States, Tacoma
+   Date of the event:05/11/2019
+----- 7 -----
+   Name of the venue:Rogers Arena
+   Venue location:   Canada, Vancouver
+   Date of the event:05/11/2019
+----- 8 -----
+   Name of the venue:Rogers Place
+   Venue location:   Canada, Edmonton
+   Date of the event:05/11/2019
+----- 9 -----
+   Name of the venue:SMS EQUIPMENT STADIUM AT SHELL PLACE
+   Venue location:   Canada, Fort Mcmurray
+   Date of the event:05/11/2019
+----- 10 -----
+   Name of the venue:Sasktel Centre
+   Venue location:   Canada, Saskatoon
+   Date of the event:05/11/2019
+----- 11 -----
+   Name of the venue:Bell MTS Place
+   Venue location:   Canada, Winnipeg
+   Date of the event:05/11/2019
+----- 12 -----
+   Name of the venue:Grand Ole Opry
+   Venue location:   United States, Nashville
+   Date of the event:05/11/2019
+----- 13 -----
+   Name of the venue:Grand Ole Opry
+   Venue location:   United States, Nashville
+   Date of the event:05/11/2019
+----- 14 -----
+   Name of the venue:Nissan Stadium - CMA Fest
+   Venue location:   United States, Nashville
+   Date of the event:05/11/2019
+----- 15 -----
+   Name of the venue:Scotiabank Arena
+   Venue location:   Canada, Toronto
+   Date of the event:05/11/2019
+----- 16 -----
+   Name of the venue:Canadian Tire Centre
+   Venue location:   Canada, Ottawa
+   Date of the event:05/11/2019
+----- 17 -----
+   Name of the venue:Giant Center
+   Venue location:   United States, Hershey
+   Date of the event:05/11/2019
+----- 18 -----
+   Name of the venue:U.S. Bank Arena
+   Venue location:   United States, Cincinnati
+   Date of the event:05/11/2019
+----- 19 -----
+   Name of the venue:Bankers Life Fieldhouse
+   Venue location:   United States, Indianapolis
+   Date of the event:05/11/2019
+----- 20 -----
+   Name of the venue:Enterprise Center
+   Venue location:   United States, Saint Louis
+   Date of the event:05/11/2019
+----- 21 -----
+   Name of the venue:Fiserv Forum
+   Venue location:   United States, Milwaukee
+   Date of the event:05/11/2019
+----- 22 -----
+   Name of the venue:Target Center
+   Venue location:   United States, Minneapolis
+   Date of the event:05/11/2019
+----- 23 -----
+   Name of the venue:Pinnacle Bank Arena
+   Venue location:   United States, Lincoln
+   Date of the event:05/11/2019
+----- 24 -----
+   Name of the venue:Birmingham Resorts World Arena
+   Venue location:   United Kingdom, Birmingham
+   Date of the event:05/11/2019
+----- 25 -----
+   Name of the venue:Cardiff Motorpoint Arena
+   Venue location:   United Kingdom, Cardiff
+   Date of the event:05/11/2019
+----- 26 -----
+   Name of the venue:The SSE Hydro
+   Venue location:   United Kingdom, Glasgow
+   Date of the event:05/11/2019
+----- 27 -----
+   Name of the venue:Manchester Arena
+   Venue location:   United Kingdom, Manchester
+   Date of the event:05/11/2019
+----- 28 -----
+   Name of the venue:Wembley The SSE Arena
+   Venue location:   United Kingdom, London
+   Date of the event:05/11/2019
+----- 29 -----
+   Name of the venue:Cavendish Beach Music Festival
+   Venue location:   Canada, Cavendish
+   Date of the event:05/11/2019
+----- 30 -----
+   Name of the venue:Pechanga Arena San Diego
+   Venue location:   United States, San Diego
+   Date of the event:05/11/2019
+----- 31 -----
+   Name of the venue:Staples Center
+   Venue location:   United States, Los Angeles
+   Date of the event:05/11/2019
+----- 32 -----
+   Name of the venue:Vivint Smart Home Arena
+   Venue location:   United States, Salt Lake City
+   Date of the event:05/11/2019
+----- 33 -----
+   Name of the venue:Pepsi Center
+   Venue location:   United States, Denver
+   Date of the event:05/11/2019
+----- 34 -----
+   Name of the venue:Intrust Bank Arena
+   Venue location:   United States, Wichita
+   Date of the event:05/11/2019
+----- 35 -----
+   Name of the venue:Sprint Center
+   Venue location:   United States, Kansas City
+   Date of the event:05/11/2019
+----- 36 -----
+   Name of the venue:Toyota Center
+   Venue location:   United States, Houston
+   Date of the event:05/11/2019
+----- 37 -----
+   Name of the venue:CAJUNDOME
+   Venue location:   United States, Lafayette
+   Date of the event:05/11/2019
+----- 38 -----
+   Name of the venue:American Airlines Center
+   Venue location:   United States, Dallas
+   Date of the event:05/11/2019
+----- 39 -----
+   Name of the venue:Chesapeake Energy Arena
+   Venue location:   United States, Oklahoma City
+   Date of the event:05/11/2019
+----- 40 -----
+   Name of the venue:Bridgestone Arena
+   Venue location:   United States, Nashville
+   Date of the event:05/11/2019
+----- 41 -----
+   Name of the venue:Colonial Life Arena
+   Venue location:   United States, Columbia
+   Date of the event:05/11/2019
+----- 42 -----
+   Name of the venue:PNC Arena
+   Venue location:   United States, Raleigh
+   Date of the event:05/11/2019
+----- 43 -----
+   Name of the venue:Madison Square Garden
+   Venue location:   United States, New York
+   Date of the event:05/11/2019
+----- 44 -----
+   Name of the venue:Capital One Arena
+   Venue location:   United States, Washington
+   Date of the event:05/11/2019
+----- 45 -----
+   Name of the venue:Wells Fargo Center
+   Venue location:   United States, Philadelphia
+   Date of the event:05/11/2019
+----- 46 -----
+   Name of the venue:The Grand Theater at Foxwoods
+   Venue location:   United States, Mashantucket
+   Date of the event:05/11/2019
+----- 47 -----
+   Name of the venue:TD Garden
+   Venue location:   United States, Boston
+   Date of the event:05/11/2019
+----- 48 -----
+   Name of the venue:PPG Paints Arena
+   Venue location:   United States, Pittsburgh
+   Date of the event:05/11/2019
+----- 49 -----
+   Name of the venue:KeyBank Center
+   Venue location:   United States, Buffalo
+   Date of the event:05/11/2019
+----- 50 -----
+   Name of the venue:Rocket Mortgage FieldHouse
+   Venue location:   United States, Cleveland
+   Date of the event:05/11/2019
+----- 51 -----
+   Name of the venue:KFC Yum! Center
+   Venue location:   United States, Louisville
+   Date of the event:05/11/2019
+----- 52 -----
+   Name of the venue:Philips Arena
+   Venue location:   United States, Atlanta
+   Date of the event:05/11/2019
+----- 53 -----
+   Name of the venue:VyStar Veterans Memorial Arena
+   Venue location:   United States, Jacksonville
+   Date of the event:05/11/2019
+----- 54 -----
+   Name of the venue:FedExForum
+   Venue location:   United States, Memphis
+   Date of the event:05/11/2019
+----- 55 -----
+   Name of the venue:BOK Center
+   Venue location:   United States, Tulsa
+   Date of the event:05/11/2019
+----- 56 -----
+   Name of the venue:Wells Fargo Arena
+   Venue location:   United States, Des Moines
+   Date of the event:05/11/2019
+----- 57 -----
+   Name of the venue:Denny Sanford Premier Center
+   Venue location:   United States, Sioux Falls
+   Date of the event:05/11/2019
+----- 58 -----
+   Name of the venue:United Center
+   Venue location:   United States, Chicago
+   Date of the event:05/11/2019
+----- 59 -----
+   Name of the venue:Little Caesars Arena
+   Venue location:   United States, Detroit
+   Date of the event:05/11/2019
+
+
+========================================
+Command:    concert-this
+Parameters: Carrie Underwood
+
+
+----- 0 -----
+   Name of the venue:Save Mart Center
+   Venue location:   United States, Fresno
+   Date of the event:05/11/2019
+----- 1 -----
+   Name of the venue:Golden1 Center
+   Venue location:   United States, Sacramento
+   Date of the event:05/11/2019
+----- 2 -----
+   Name of the venue:Oracle Arena
+   Venue location:   United States, Oakland
+   Date of the event:05/11/2019
+----- 3 -----
+   Name of the venue:Rabobank Arena, Theater and Convention Center
+   Venue location:   United States, Bakersfield
+   Date of the event:05/11/2019
+----- 4 -----
+   Name of the venue:Moda Center
+   Venue location:   United States, Portland
+   Date of the event:05/11/2019
+----- 5 -----
+   Name of the venue:Spokane Arena
+   Venue location:   United States, Spokane
+   Date of the event:05/11/2019
+----- 6 -----
+   Name of the venue:Tacoma Dome
+   Venue location:   United States, Tacoma
+   Date of the event:05/11/2019
+----- 7 -----
+   Name of the venue:Rogers Arena
+   Venue location:   Canada, Vancouver
+   Date of the event:05/11/2019
+----- 8 -----
+   Name of the venue:Rogers Place
+   Venue location:   Canada, Edmonton
+   Date of the event:05/11/2019
+----- 9 -----
+   Name of the venue:SMS EQUIPMENT STADIUM AT SHELL PLACE
+   Venue location:   Canada, Fort Mcmurray
+   Date of the event:05/11/2019
+----- 10 -----
+   Name of the venue:Sasktel Centre
+   Venue location:   Canada, Saskatoon
+   Date of the event:05/11/2019
+----- 11 -----
+   Name of the venue:Bell MTS Place
+   Venue location:   Canada, Winnipeg
+   Date of the event:05/11/2019
+----- 12 -----
+   Name of the venue:Grand Ole Opry
+   Venue location:   United States, Nashville
+   Date of the event:05/11/2019
+----- 13 -----
+   Name of the venue:Grand Ole Opry
+   Venue location:   United States, Nashville
+   Date of the event:05/11/2019
+----- 14 -----
+   Name of the venue:Nissan Stadium - CMA Fest
+   Venue location:   United States, Nashville
+   Date of the event:05/11/2019
+----- 15 -----
+   Name of the venue:Scotiabank Arena
+   Venue location:   Canada, Toronto
+   Date of the event:05/11/2019
+----- 16 -----
+   Name of the venue:Canadian Tire Centre
+   Venue location:   Canada, Ottawa
+   Date of the event:05/11/2019
+----- 17 -----
+   Name of the venue:Giant Center
+   Venue location:   United States, Hershey
+   Date of the event:05/11/2019
+----- 18 -----
+   Name of the venue:U.S. Bank Arena
+   Venue location:   United States, Cincinnati
+   Date of the event:05/11/2019
+----- 19 -----
+   Name of the venue:Bankers Life Fieldhouse
+   Venue location:   United States, Indianapolis
+   Date of the event:05/11/2019
+----- 20 -----
+   Name of the venue:Enterprise Center
+   Venue location:   United States, Saint Louis
+   Date of the event:05/11/2019
+----- 21 -----
+   Name of the venue:Fiserv Forum
+   Venue location:   United States, Milwaukee
+   Date of the event:05/11/2019
+----- 22 -----
+   Name of the venue:Target Center
+   Venue location:   United States, Minneapolis
+   Date of the event:05/11/2019
+----- 23 -----
+   Name of the venue:Pinnacle Bank Arena
+   Venue location:   United States, Lincoln
+   Date of the event:05/11/2019
+----- 24 -----
+   Name of the venue:Birmingham Resorts World Arena
+   Venue location:   United Kingdom, Birmingham
+   Date of the event:05/11/2019
+----- 25 -----
+   Name of the venue:Cardiff Motorpoint Arena
+   Venue location:   United Kingdom, Cardiff
+   Date of the event:05/11/2019
+----- 26 -----
+   Name of the venue:The SSE Hydro
+   Venue location:   United Kingdom, Glasgow
+   Date of the event:05/11/2019
+----- 27 -----
+   Name of the venue:Manchester Arena
+   Venue location:   United Kingdom, Manchester
+   Date of the event:05/11/2019
+----- 28 -----
+   Name of the venue:Wembley The SSE Arena
+   Venue location:   United Kingdom, London
+   Date of the event:05/11/2019
+----- 29 -----
+   Name of the venue:Cavendish Beach Music Festival
+   Venue location:   Canada, Cavendish
+   Date of the event:05/11/2019
+----- 30 -----
+   Name of the venue:Pechanga Arena San Diego
+   Venue location:   United States, San Diego
+   Date of the event:05/11/2019
+----- 31 -----
+   Name of the venue:Staples Center
+   Venue location:   United States, Los Angeles
+   Date of the event:05/11/2019
+----- 32 -----
+   Name of the venue:Vivint Smart Home Arena
+   Venue location:   United States, Salt Lake City
+   Date of the event:05/11/2019
+----- 33 -----
+   Name of the venue:Pepsi Center
+   Venue location:   United States, Denver
+   Date of the event:05/11/2019
+----- 34 -----
+   Name of the venue:Intrust Bank Arena
+   Venue location:   United States, Wichita
+   Date of the event:05/11/2019
+----- 35 -----
+   Name of the venue:Sprint Center
+   Venue location:   United States, Kansas City
+   Date of the event:05/11/2019
+----- 36 -----
+   Name of the venue:Toyota Center
+   Venue location:   United States, Houston
+   Date of the event:05/11/2019
+----- 37 -----
+   Name of the venue:CAJUNDOME
+   Venue location:   United States, Lafayette
+   Date of the event:05/11/2019
+----- 38 -----
+   Name of the venue:American Airlines Center
+   Venue location:   United States, Dallas
+   Date of the event:05/11/2019
+----- 39 -----
+   Name of the venue:Chesapeake Energy Arena
+   Venue location:   United States, Oklahoma City
+   Date of the event:05/11/2019
+----- 40 -----
+   Name of the venue:Bridgestone Arena
+   Venue location:   United States, Nashville
+   Date of the event:05/11/2019
+----- 41 -----
+   Name of the venue:Colonial Life Arena
+   Venue location:   United States, Columbia
+   Date of the event:05/11/2019
+----- 42 -----
+   Name of the venue:PNC Arena
+   Venue location:   United States, Raleigh
+   Date of the event:05/11/2019
+----- 43 -----
+   Name of the venue:Madison Square Garden
+   Venue location:   United States, New York
+   Date of the event:05/11/2019
+----- 44 -----
+   Name of the venue:Capital One Arena
+   Venue location:   United States, Washington
+   Date of the event:05/11/2019
+----- 45 -----
+   Name of the venue:Wells Fargo Center
+   Venue location:   United States, Philadelphia
+   Date of the event:05/11/2019
+----- 46 -----
+   Name of the venue:The Grand Theater at Foxwoods
+   Venue location:   United States, Mashantucket
+   Date of the event:05/11/2019
+----- 47 -----
+   Name of the venue:TD Garden
+   Venue location:   United States, Boston
+   Date of the event:05/11/2019
+----- 48 -----
+   Name of the venue:PPG Paints Arena
+   Venue location:   United States, Pittsburgh
+   Date of the event:05/11/2019
+----- 49 -----
+   Name of the venue:KeyBank Center
+   Venue location:   United States, Buffalo
+   Date of the event:05/11/2019
+----- 50 -----
+   Name of the venue:Rocket Mortgage FieldHouse
+   Venue location:   United States, Cleveland
+   Date of the event:05/11/2019
+----- 51 -----
+   Name of the venue:KFC Yum! Center
+   Venue location:   United States, Louisville
+   Date of the event:05/11/2019
+----- 52 -----
+   Name of the venue:Philips Arena
+   Venue location:   United States, Atlanta
+   Date of the event:05/11/2019
+----- 53 -----
+   Name of the venue:VyStar Veterans Memorial Arena
+   Venue location:   United States, Jacksonville
+   Date of the event:05/11/2019
+----- 54 -----
+   Name of the venue:FedExForum
+   Venue location:   United States, Memphis
+   Date of the event:05/11/2019
+----- 55 -----
+   Name of the venue:BOK Center
+   Venue location:   United States, Tulsa
+   Date of the event:05/11/2019
+----- 56 -----
+   Name of the venue:Wells Fargo Arena
+   Venue location:   United States, Des Moines
+   Date of the event:05/11/2019
+----- 57 -----
+   Name of the venue:Denny Sanford Premier Center
+   Venue location:   United States, Sioux Falls
+   Date of the event:05/11/2019
+----- 58 -----
+   Name of the venue:United Center
+   Venue location:   United States, Chicago
+   Date of the event:05/11/2019
+----- 59 -----
+   Name of the venue:Little Caesars Arena
+   Venue location:   United States, Detroit
+   Date of the event:05/11/2019
+
