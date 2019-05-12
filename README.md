@@ -14,6 +14,36 @@ Remember the execution should be:
 
 node liri.js  <command>  <search term>
 
+
+
+Accepted commands are:
+
+​	concert-this
+
+​	spotify-this-song
+
+​	movie-this
+
+​	do-what-it-says
+
+This last command executes the instruction stored in the file "random.txt".
+
+
+
+Some examples are:
+
+node liri.js concert-this Carrie Underwood
+
+node liri.js spotify-this-song Dead and Company
+
+node liri.js movie-this Black Widow
+
+
+
+Every successful command will be store in "log.txt" file with corresponding results.
+
+In some cases if the search term is not provided a predefined one will be added.
+
 If looking for a movie and the name contents special characters you may use "" to specify the name of the movie (node liri.js movie-this "Mr. & Mrs. Smith").
 
 Please check "log.txt" for a demo of commands and results.
